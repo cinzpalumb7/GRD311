@@ -46,3 +46,18 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+#intro-text {
+    width: 600px;
+    position: relative;
+    top: 200px;
+    justify-content: center;
+}
+.row {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.row-center {
+    justify-content: center;
+}
